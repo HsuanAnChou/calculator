@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/hsuanyuan/UT/_apis/build/status/HsuanAnChou.calculator?branchName=master)](https://dev.azure.com/hsuanyuan/UT/_build/latest?definitionId=3&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
